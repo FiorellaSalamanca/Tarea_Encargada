@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrincipioSolid", "3PrincipioSolid\PrincipioSolid.csproj", "{1BC92FD2-09AF-4F9B-9AB7-FAA9A30B305E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitOfWork", "UnitOfWork\UnitOfWork.csproj", "{47CC63E1-D0CE-4E33-94E5-F15BF060002B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BC92FD2-09AF-4F9B-9AB7-FAA9A30B305E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC92FD2-09AF-4F9B-9AB7-FAA9A30B305E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BC92FD2-09AF-4F9B-9AB7-FAA9A30B305E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC92FD2-09AF-4F9B-9AB7-FAA9A30B305E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47CC63E1-D0CE-4E33-94E5-F15BF060002B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47CC63E1-D0CE-4E33-94E5-F15BF060002B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47CC63E1-D0CE-4E33-94E5-F15BF060002B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47CC63E1-D0CE-4E33-94E5-F15BF060002B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
