@@ -23,7 +23,6 @@ namespace _3PrincipioSolid
             }
         }
 
-
         public class PerimeterOperations
         {
             public static double SumPerimeters(IEnumerable<Rectangle> rectangles)

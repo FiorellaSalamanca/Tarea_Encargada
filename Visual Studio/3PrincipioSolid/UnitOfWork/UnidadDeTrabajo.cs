@@ -10,8 +10,6 @@ namespace UnitOfWork
     {
         //aproximacion al patron de Fowler
 
-        //
-
         List<cBase> objetosNuevos;
         List<cBase> objetosModificados;
         List<cBase> objetosEliminados;

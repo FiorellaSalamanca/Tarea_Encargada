@@ -1,0 +1,6 @@
+C:\Users\DEPIS01\Desktop\Tarea_Encargada\3PrincipioSolid\3PrincipioSolid\obj\Debug\PrincipioSolid.csprojResolveAssemblyReference.cache
+C:\Users\DEPIS01\Desktop\Tarea_Encargada\3PrincipioSolid\3PrincipioSolid\bin\Debug\3PrincipioSolid.exe.config
+C:\Users\DEPIS01\Desktop\Tarea_Encargada\3PrincipioSolid\3PrincipioSolid\bin\Debug\3PrincipioSolid.exe
+C:\Users\DEPIS01\Desktop\Tarea_Encargada\3PrincipioSolid\3PrincipioSolid\bin\Debug\3PrincipioSolid.pdb
+C:\Users\DEPIS01\Desktop\Tarea_Encargada\3PrincipioSolid\3PrincipioSolid\obj\Debug\3PrincipioSolid.exe
+C:\Users\DEPIS01\Desktop\Tarea_Encargada\3PrincipioSolid\3PrincipioSolid\obj\Debug\3PrincipioSolid.pdb

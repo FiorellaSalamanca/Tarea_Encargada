@@ -10,20 +10,20 @@ namespace _3PrincipioSolid
     {
         private static void Main(string[] args)
         {
-            //programa principa que crea los rectangulos
+            //programa inicia creando los rectangulos
             
             var rectangulos = new[]
             {
-                new Rectangle {Width = 10, Height = 5},
+                new Rectangle {Width = 8, Height = 5},
                 new Rectangle {Width = 4, Height = 6},
-                new Rectangle {Width = 5, Height = 1},
+                new Rectangle {Width = 9, Height = 1},
                 new Rectangle {Width = 8, Height = 9},
             };
 
             var sumaDeAreas = Rectangle.SumAreas(rectangulos);
             var sumaDePerimetros = Rectangle.SumPerimeters(rectangulos);
 
-            Console.WriteLine("Area Total:  {sumaDeAreas}" + "Perimetro total: {sumaDePerimetros}");
+            Console.WriteLine("Area Total: " +   sumaDeAreas + "\n" + "Perimetro total: " + sumaDePerimetros);
             Console.ReadKey();
         }
     }

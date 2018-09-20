@@ -35,6 +35,6 @@ namespace _3PrincipioSolid
 
         //pero se observa que se esta violando el 1 principio solid : principio de responsabilidad unica
 
-        // - No se debe declara los emtodos SumAreas y SumPerimeters dentro de la clas Rectangle. 
+        // - No se debe declara los metodos SumAreas y SumPerimeters dentro de la clas Rectangle. 
     }
 }
